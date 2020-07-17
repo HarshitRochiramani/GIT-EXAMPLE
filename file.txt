@@ -3,3 +3,5 @@ hello world
 Modified count 2
 
 Bug1 Fixed
+
+BUG2 Fixed conflict Changes
