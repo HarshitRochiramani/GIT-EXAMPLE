@@ -4,8 +4,5 @@ Modified count 2
 
 Bug1 Fixed
 
-<<<<<<< HEAD
-BUG2 
-=======
-BUG2 related changes Fixed conflict Changes
->>>>>>> bug2
+
+
